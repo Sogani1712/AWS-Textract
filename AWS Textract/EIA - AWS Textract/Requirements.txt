@@ -1,0 +1,10 @@
+Configure Textract - copy .aws folder to User Account on C Drive
+
+Install Python 3
+
+pip install the following :
+install boto3
+install pandas
+install amazon-textract-response-parser
+install openpyxl
+instal pyPDF2
